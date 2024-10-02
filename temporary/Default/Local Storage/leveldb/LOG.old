@@ -1,0 +1,6 @@
+2024/10/02-16:47:01.816 4 Reusing MANIFEST /home/imtiaz/Documents/automation/temporary/Default/Local Storage/leveldb/MANIFEST-000001
+2024/10/02-16:47:01.838 4 Recovering log #10
+2024/10/02-16:47:01.847 4 Reusing old log /home/imtiaz/Documents/automation/temporary/Default/Local Storage/leveldb/000010.log 
+2024/10/02-16:48:03.428 4 Level-0 table #14: started
+2024/10/02-16:48:03.434 4 Level-0 table #14: 13874 bytes OK
+2024/10/02-16:48:03.436 4 Delete type=0 #10
